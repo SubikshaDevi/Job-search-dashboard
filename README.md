@@ -20,8 +20,10 @@ I've scraped the data from Linkedin using **BeautifulSoup**. And for extracting 
 ## 🛠️ Tech Stack
 
 * **Frontend & App Framework**: [Streamlit](https://streamlit.io)
+* **Scraping**: BeautifulSoup
 * **Visualization**: Plotly, Matplotlib
 * **Data Manipulation**: Pandas, Ast
+* **Text extraction**: Spacy (NLP)
 * **Language**: Python
 
 ---
